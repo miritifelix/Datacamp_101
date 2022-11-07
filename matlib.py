@@ -17,4 +17,4 @@ plt.xlabel('YEARS')
 plt.ylabel('POPULATION IN BILLIONS')
 plt.title('YEARS VS POP')
 plt.show()
-#check matplot lib docu,emtation
+#check matplot lib documetation
